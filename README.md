@@ -1,4 +1,4 @@
-### Hi there , my name is Alex, let's be friends 👋
+### Hi there my name is Alex let's be friends 👋
 
 
 Trying to be good
