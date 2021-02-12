@@ -38,7 +38,7 @@ Trying to be good
 
 [linkedin]: https://www.linkedin.com/in/alexandru-gherman-8b77a31a7/
 [xing]: https://www.xing.com/profile/Alex_Gherman4/cv
-[webdevplaylist]: https://www.youtube.com/
-[jsplaylist]: https://www.youtube.com/
-[cssplaylist]: https://www.youtube.com/
-[reactplaylist]: https://www.youtube.com/
+[webdevplaylist]: /
+[jsplaylist]: /
+[cssplaylist]: /
+[reactplaylist]: /
