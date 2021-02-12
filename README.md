@@ -3,10 +3,11 @@
 
 Trying to be good at something 
 
-![Alex-Gherman github stats](https://github-readme-stats.vercel.app/api?username=Alex-Gherman)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Alex-Gherman/github-readme-stats)
+![Alex-Gherman GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Gherman&count_private=true&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Gherman)](https://github.com/Alex-Gherman/github-readme-stats&theme=dark)
 
 
 
