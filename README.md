@@ -5,9 +5,9 @@ Trying to be good
 
 
 
-![Alex-Gherman GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Gherman&count_private=true&show_icons=true&theme=dark) 
+![Alex-Gherman GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Gherman&count_private=true&show_icons=true&theme=chartreuse-dark) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Gherman&theme=dark)](https://github.com/Alex-Gherman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Gherman&count_private=true&theme=chartreuse-dark)](https://github.com/Alex-Gherman/github-readme-stats)
 
 ### Languages and Tools:
 
